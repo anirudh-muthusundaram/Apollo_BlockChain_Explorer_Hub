@@ -1,6 +1,7 @@
 # Apollo Blockchain Explorer Hub
     
-    A comprehensive blockchain analytics platform built with FastMCP (Model Context Protocol) server that provides four specialized AI agents, created using Pydantic AI for blockchain data analysis. The system integrates seamlessly with Claude Desktop to enable natural language interactions with blockchain data through cross-agent workflows.
+
+A comprehensive blockchain analytics platform built with FastMCP (Model Context Protocol) server that provides four specialized AI agents, created using Pydantic AI for blockchain data analysis. The system integrates seamlessly with Claude Desktop to enable natural language interactions with blockchain data through cross-agent workflows.
 
 Our HUB features **real-time blockchain queries, account analysis, transaction monitoring, and advanced analytics**, all through **natural language interaction**. 
 ## 🏗️ Architecture Overview
