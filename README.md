@@ -4,6 +4,8 @@ It enables **real-time blockchain queries, account analysis, transaction monitor
 A comprehensive blockchain analytics platform built with FastMCP (Model Context Protocol) server that provides four specialized AI agents, created using Pydantic AI for blockchain data analysis. The system integrates seamlessly with Claude Desktop to enable natural language interactions with blockchain data through cross-agent workflows.
 ## 🏗️ Architecture Overview
 
+![Apollo System Architecture](assets/system_architecture.png)
+
 Apollo consists of four specialized Pydantic AI agents that work together through an MCP server:
 
 - **Chain Agent** - Real-time blockchain information (latest blocks, network status)
