@@ -311,7 +311,7 @@ If you encounter issues:
 1. Check the troubleshooting section above
 2. Ensure all prerequisites are met
 3. Verify your environment configuration
-4. Check the FastMCP and Claude Desktop documentation
+4. Check the FastMCP and Claude Desktop documentation (Please try it on Mac or windows, as Linux does not have Claude Desktop Yet).
 5. Create an issue with detailed error logs
 
 ---
